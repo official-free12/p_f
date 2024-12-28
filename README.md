@@ -1,0 +1,6 @@
+# p2p投资理财源码金融理财平台外汇源码交易网站股票炒股交易源码
+
+拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>-------------------------------------------------------------------------------------------------------------------<br>请在购买前认真阅读以下说明：<br>example.com，有问题客服我会耐心为大家解答。<br>example.com，都请详细咨询客服后再进行下单，避免不必要的误会。<br>example.com，可与我沟通这套码我很熟悉可以帮你二开新功能。<br>如需要其他源码可联系客服咨询，本店会更新更多精品资源！<br>您的信任与支持是我们持续提供更好更完美的程序前提！<br>本程序采用thinkphp开发可打包APP源码全开源无授权，入手即可二开！<br>功能说明：<br>1、全新框架开发<br>2、邀请新会员，注册成功并投资后，可得到系统分配的邀请佣金<br>3、每成功邀请一位会员，都可以得到其投资的邀请佣金，并且可享受一次邀请，终生分配佣金<br>4、邀请佣金，全程由系统自动结算，新会员投资后，即刻结算<br>5、购买分红产品后每日自动发放分红金额；<br>6、后台可配置提现限制、每日提现时间、提现费率等；<br>7、团队奖励制度。<br>前台演示链接：<br>example.com:3722/<br>测试账号密码:<br>13888888888<br>123456<br>后台联系客服测试<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/xtZKe" style="color: red;">https://mega-file.org/xtZKe</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
